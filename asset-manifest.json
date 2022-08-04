@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ticket_page/static/css/main.b6fbe816.css",
+    "main.js": "/ticket_page/static/js/main.385efb27.js",
+    "static/js/787.5f7fbf9e.chunk.js": "/ticket_page/static/js/787.5f7fbf9e.chunk.js",
+    "static/media/s7airlines.png": "/ticket_page/static/media/s7airlines.0c03260051151ee01ede.png",
+    "static/media/turkishAirlines.png": "/ticket_page/static/media/turkishAirlines.d004fec6911fae84cb7b.png",
+    "static/media/airplaneLogo.png": "/ticket_page/static/media/airplaneLogo.b095d9225d5dcb89e1ac.png",
+    "static/media/singapureAirlines.png": "/ticket_page/static/media/singapureAirlines.00ca6d9eff2be7739a41.png",
+    "static/media/britishAirlines.png": "/ticket_page/static/media/britishAirlines.b025cae1abd1a46ee1f9.png",
+    "index.html": "/ticket_page/index.html",
+    "main.b6fbe816.css.map": "/ticket_page/static/css/main.b6fbe816.css.map",
+    "main.385efb27.js.map": "/ticket_page/static/js/main.385efb27.js.map",
+    "787.5f7fbf9e.chunk.js.map": "/ticket_page/static/js/787.5f7fbf9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fbe816.css",
+    "static/js/main.385efb27.js"
+  ]
+}
