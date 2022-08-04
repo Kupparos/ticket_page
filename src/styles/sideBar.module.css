@@ -1,0 +1,15 @@
+.sideBar {
+  background-color: #fff;
+  /* width: 30%; */
+  height: 45vh;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 1rem;
+  box-shadow: 0 0 5px 1px rgb(219, 218, 218);
+}
+
+.mantine-Checkbox-root > .mantine-16ttirm :hover {
+  cursor: pointer;
+}
